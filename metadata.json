@@ -1,0 +1,6 @@
+{
+  "name": "Sri Vyshnavi Jewellery - Luxury Management",
+  "description": "Luxury jewellery ERP, customer relations, staff management, and gold billing suite with responsive mobile and desktop experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
